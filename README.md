@@ -1,6 +1,6 @@
 # Tugas 1 NodeJS
 
-NodeJS + ExpressJS, menampilkan JSON
+NodeJS + ExpressJS, Menampilkan JSON
 
 Tampilan Home :
 ![home](screen/Home.png)
